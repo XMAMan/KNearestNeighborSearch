@@ -1,0 +1,22 @@
+D:\C#\NearestNeighborSearch\Main\obj\x86\Release\Main.csprojResolveAssemblyReference.cache
+D:\C#\NearestNeighborSearch\Main\obj\x86\Release\Main.Properties.Resources.resources
+D:\C#\NearestNeighborSearch\Main\obj\x86\Release\Main.csproj.GenerateResource.Cache
+D:\C#\NearestNeighborSearch\Main\bin\Release\Main.exe
+D:\C#\NearestNeighborSearch\Main\bin\Release\Main.pdb
+D:\C#\NearestNeighborSearch\Main\bin\Release\NearestNeighborSearch.dll
+D:\C#\NearestNeighborSearch\Main\bin\Release\NearestNeighborSearch.pdb
+D:\C#\NearestNeighborSearch\Main\obj\x86\Release\Main.exe
+D:\C#\NearestNeighborSearch\Main\obj\x86\Release\Main.pdb
+D:\C#\NearestNeighborSearch\Main\obj\x86\Release\Main.Form1.resources
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.exe
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.pdb
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\bin\Release\Main.exe
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\bin\Release\Main.pdb
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\bin\Release\NearestNeighborSearch.dll
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\bin\Release\NearestNeighborSearch.pdb
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.csprojResolveAssemblyReference.cache
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.Form1.resources
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.Properties.Resources.resources
+D:\C#\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.csproj.GenerateResource.Cache
+C:\EAF\Enrico\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.exe
+C:\EAF\Enrico\50 NearestNeighborSearch\NearestNeighborSearch\Main\obj\x86\Release\Main.pdb
