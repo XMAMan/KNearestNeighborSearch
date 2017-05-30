@@ -6,13 +6,13 @@ I have translated the C++ Projekt from this site: https://www.cs.umd.edu/~mount/
 
 The usage looks like this:
 
-//You have to implement this interface
+/*You have to implement this interface*/
 public interface IPoint
 {
     float this[int dimension] { get; }
 }
 
-//Example for a 3D-Point
+/*Example for a 3D-Point*/
 class Point3D : IPoint
 {
     public float[] data;
@@ -31,7 +31,7 @@ class Point3D : IPoint
     }
 }
 
-//Search the 123-Nearest points around (50,50,50)
+/*Search the 123-Nearest points around (50,50,50)*/
 public static void Run()
 {
     int pointCount = 100000;
