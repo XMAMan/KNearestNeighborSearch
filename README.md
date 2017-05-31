@@ -3,6 +3,7 @@
 
 I have translated the C++ Projekt from this site: https://www.cs.umd.edu/~mount/ANN/ into C# and have refactored it and made little bugfixes
 
+It use a KD-Tree or a BoxDecomposition-Tree for the search
 
 The usage looks like this:
 
