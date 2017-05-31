@@ -1,7 +1,7 @@
 # KNearestNeighborSearch
 ## Search the K nearest points from a given set of points
 
-I have translated the C++ Projekt from this site: https://www.cs.umd.edu/~mount/ANN/ into C# and have refactored and made little bugfixes
+I have translated the C++ Projekt from this site: https://www.cs.umd.edu/~mount/ANN/ into C# and have refactored it and made little bugfixes
 
 
 The usage looks like this:
