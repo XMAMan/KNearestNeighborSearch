@@ -5,8 +5,13 @@ I have translated the C++ Projekt from this site: https://www.cs.umd.edu/~mount/
 
 It use a KD-Tree or a BoxDecomposition-Tree for the search. The points can be in any dimension (2D, 3D, ...)
 
-The usage looks like this:
+## Installation
 
+This is a C# Visual Studio 2010 Project. Use visual studio 2010 or newer. There are no other external dependencys than visual studio.
+
+## The usage in C# looks like this:
+
+```csharp
 //You have to implement this interface
 public interface IPoint
 {
@@ -46,3 +51,4 @@ public static void Run()
     KNearestNeighborSearch search = new KNearestNeighborSearch(points, 3); //3D-Points
     IPoint[] result = search.SearchKNearestNeighbors3D(50, 50, 50, 123); //Get the 123 nearest points
 }
+```
